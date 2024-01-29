@@ -257,6 +257,7 @@ body {
 .image-trigger{
   color: #132C6C;
   text-decoration: underline;
+    cursor: pointer;
 }
 
 input[type="range"] {
